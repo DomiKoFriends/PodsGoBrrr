@@ -1,17 +1,18 @@
 # PodsGoBrrr
+![image](https://user-images.githubusercontent.com/45509637/193480821-6229c078-81c3-4742-8a7e-fd6299169ef1.png)
 
-![image](https://user-images.githubusercontent.com/45509637/193464691-3cd31948-dcff-4529-aa3c-657798ebb333.png)
-
-![image](https://user-images.githubusercontent.com/45509637/193464735-d57ede92-def9-444d-ac87-0dd50dfc0b90.png)
+![image](https://user-images.githubusercontent.com/45509637/193480847-53fd467e-fecb-44c0-ab29-9d114a19c86b.png)
 ![](https://github.com/DomiKoFriends/PodsGoBrrr/blob/master/gifs/6.gif)
 
-![image](https://user-images.githubusercontent.com/45509637/193464854-8e4e1e80-3dba-4fe4-bb0a-eed589e19cb2.png)
+![image](https://user-images.githubusercontent.com/45509637/193480867-2802ec78-1545-4b8e-b079-8ea6f4dbeeea.png)
 
-![image](https://user-images.githubusercontent.com/45509637/193464911-09770835-e50f-43ce-8c97-68cea3aac738.png)
+![image](https://user-images.githubusercontent.com/45509637/193480890-568996ad-a444-4273-8a6c-a28309505a84.png)
 
-![image](https://user-images.githubusercontent.com/45509637/193464946-554778e0-c1e6-4b54-a656-ef0bf365bb37.png)
+![image](https://user-images.githubusercontent.com/45509637/193480937-b9166375-631f-45a3-88c3-990a67ba3ce0.png)
 
-![image](https://user-images.githubusercontent.com/45509637/193464974-a57c4bc1-2630-49bb-8564-f0a2b4994cf3.png)
+![image](https://user-images.githubusercontent.com/45509637/193480955-251e42ef-83c3-41e9-bfda-15a6362058e9.png)
+
+![image](https://user-images.githubusercontent.com/45509637/193480977-bd4a3914-87bf-4a48-8074-05e571e18e2a.png)
 
 ![](https://github.com/DomiKoFriends/PodsGoBrrr/blob/master/gifs/1.gif)
 ![](https://github.com/DomiKoFriends/PodsGoBrrr/blob/master/gifs/2.gif)
